@@ -1,3 +1,5 @@
+> **This sample is out of date.** It uses Stream Chat Android 6, one major version behind the current SDK. For current samples, see [Android-Samples](https://github.com/GetStream/Android-Samples).
+
 ![cover](https://user-images.githubusercontent.com/24237865/171068407-e3a634ba-14c5-41dc-931d-660892897313.png)
 
 <p align="center">
